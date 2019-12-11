@@ -1,0 +1,13 @@
+.favorites {
+    text-align: center;
+    
+
+}
+
+div {
+    text-decoration: underline ;
+    font-size: x-large;
+    border-top: 5px dashed darkorange;
+    padding: 25px;
+    
+}

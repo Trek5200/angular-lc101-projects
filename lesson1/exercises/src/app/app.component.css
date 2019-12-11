@@ -1,0 +1,10 @@
+div {
+    background-color:lightgoldenrodyellow;
+
+}
+
+.col-3 {
+    border-block-color: red;
+    border-style: solid;
+    border: maroon;
+}
